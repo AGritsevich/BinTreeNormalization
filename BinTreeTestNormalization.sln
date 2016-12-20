@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinTreeTestNormalization", "BinTreeTestNormalization\BinTreeTestNormalization.vcxproj", "{EE8C54BE-C0B9-4A8C-B837-938EF692E552}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClearAVLTree", "ClearAVLTree\ClearAVLTree.vcxproj", "{F56331AB-3CDF-4211-88AB-B3435F2DE629}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppQuize", "CppQuize\CppQuize.vcxproj", "{7966437A-3F46-43C6-A0F8-51C973AAF1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8C54BE-C0B9-4A8C-B837-938EF692E552}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE8C54BE-C0B9-4A8C-B837-938EF692E552}.Release|Win32.ActiveCfg = Release|Win32
+		{EE8C54BE-C0B9-4A8C-B837-938EF692E552}.Release|Win32.Build.0 = Release|Win32
+		{F56331AB-3CDF-4211-88AB-B3435F2DE629}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F56331AB-3CDF-4211-88AB-B3435F2DE629}.Release|Win32.ActiveCfg = Release|Win32
+		{F56331AB-3CDF-4211-88AB-B3435F2DE629}.Release|Win32.Build.0 = Release|Win32
+		{7966437A-3F46-43C6-A0F8-51C973AAF1BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7966437A-3F46-43C6-A0F8-51C973AAF1BC}.Debug|Win32.Build.0 = Debug|Win32
+		{7966437A-3F46-43C6-A0F8-51C973AAF1BC}.Release|Win32.ActiveCfg = Release|Win32
+		{7966437A-3F46-43C6-A0F8-51C973AAF1BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
